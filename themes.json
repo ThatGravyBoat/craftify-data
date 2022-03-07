@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pixelated",
+    "displayName": "Pixelated Theme",
+    "author": "Mo2men",
+    "icon": "https://i.imgur.com/gGwLcTB.png",
+    "screenshot": "https://i.imgur.com/PChJeZ5.png",
+    "description": "This theme provides pixelated versions of all the original icons with more colorful text and progress bar.",
+    "theme": {
+      "borderColor":-16669358,
+      "progressBar":{
+        "barColor":-14829228,
+        "barBackgroundColor":-15133676,
+        "barRadius":0.0,
+        "numberColor":-1
+      },
+      "titleColor":-14829228,
+      "artistColor":-1,
+      "backgroundColor":1325400064,
+      "controlColor":-1,
+      "controlHoverColor":-6908266,
+      "selectedControlColor":-16669358,
+      "selectedControlHoverColor":-16722839,
+      "settingIcon":"https://i.imgur.com/Ln0Ca9a.png",
+      "shuffleIcon":"https://i.imgur.com/pdaYDPL.png",
+      "previousIcon":"https://i.imgur.com/6NZCT1x.png",
+      "pauseIcon":"https://i.imgur.com/gertwAK.png",
+      "playIcon":"https://i.imgur.com/gGwLcTB.png",
+      "nextIcon":"https://i.imgur.com/J26CYIy.png",
+      "repeatIcon":"https://i.imgur.com/2l7Wvfi.png",
+      "externalIcon":"https://i.imgur.com/eImse0e.png"
+    }
+  }
+]
