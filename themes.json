@@ -30,5 +30,69 @@
       "repeatIcon":"https://i.imgur.com/2l7Wvfi.png",
       "externalIcon":"https://i.imgur.com/eImse0e.png"
     }
+  },
+  {
+    "id": "pixelated_yt",
+    "displayName": "Pixelated Theme (YT)",
+    "author": "Mo2men, Edit ThatGravyBoat",
+    "icon": "https://i.imgur.com/gGwLcTB.png",
+    "screenshot": "https://i.imgur.com/SmjTZJT.png",
+    "description": "This theme is like the not Pixelated Theme but colored to the YT colors to celebrate the release of Craftify supporting YTMD.",
+    "theme": {
+        "borderColor": -3919829,
+        "progressBar":{
+            "barColor": -3919829,
+            "barBackgroundColor":-15133676,
+            "barRadius":0.0,
+            "numberColor":-1
+        },
+        "titleColor": -3919829,
+        "artistColor":-1,
+        "backgroundColor": 1325400064,
+        "controlColor":-1,
+        "controlHoverColor":-6908266,
+        "selectedControlColor": -3919829,
+        "selectedControlHoverColor": -4107953,
+        "settingIcon":"https://i.imgur.com/Ln0Ca9a.png",
+        "shuffleIcon":"https://i.imgur.com/pdaYDPL.png",
+        "previousIcon":"https://i.imgur.com/6NZCT1x.png",
+        "pauseIcon":"https://i.imgur.com/gertwAK.png",
+        "playIcon":"https://i.imgur.com/gGwLcTB.png",
+        "nextIcon":"https://i.imgur.com/J26CYIy.png",
+        "repeatIcon":"https://i.imgur.com/2l7Wvfi.png",
+        "externalIcon":"https://i.imgur.com/eImse0e.png"
+    }
+  },
+  {
+    "id": "pixelated_essential",
+    "displayName": "Pixelated Theme (Essential)",
+    "author": "Mo2men, Edit ThatGravyBoat",
+    "icon": "https://i.imgur.com/gGwLcTB.png",
+    "screenshot": "https://i.imgur.com/SmjTZJT.png",
+    "description": "This theme is like the not Pixelated Theme but colored to the new Essetial colors.",
+    "theme": {
+        "borderColor": -14117380,
+        "progressBar":{
+            "barColor": -14117380,
+            "barBackgroundColor":-15133676,
+            "barRadius":0.0,
+            "numberColor":-1
+        },
+        "titleColor": -14117380,
+        "artistColor":-1,
+        "backgroundColor": 1325400064,
+        "controlColor":-1,
+        "controlHoverColor":-6908266,
+        "selectedControlColor": -14117380,
+        "selectedControlHoverColor": -12022322,
+        "settingIcon":"https://i.imgur.com/Ln0Ca9a.png",
+        "shuffleIcon":"https://i.imgur.com/pdaYDPL.png",
+        "previousIcon":"https://i.imgur.com/6NZCT1x.png",
+        "pauseIcon":"https://i.imgur.com/gertwAK.png",
+        "playIcon":"https://i.imgur.com/gGwLcTB.png",
+        "nextIcon":"https://i.imgur.com/J26CYIy.png",
+        "repeatIcon":"https://i.imgur.com/2l7Wvfi.png",
+        "externalIcon":"https://i.imgur.com/eImse0e.png"
+    }
   }
 ]
