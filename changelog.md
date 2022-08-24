@@ -9,3 +9,4 @@
 - Added change log screen.
 - Added position editor button in controls.
 - Added volume control button in controls.
+- Note: Themes have been updated so to get the new icons for your theme you will need to reinstall your theme with `/craftify library`
