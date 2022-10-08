@@ -2,7 +2,7 @@
 
 ## 1.4.1
 - Fixed issue where config would fail to load because of login button.
-- Fixed issue on Fabirc where it would break essential installer.
+- Fixed issue on Fabric where it would break essential installer.
 
 ## 1.4.0
 
