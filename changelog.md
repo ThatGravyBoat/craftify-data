@@ -1,5 +1,13 @@
 # Craftify Change Log
 
+## 1.5.0
+- Switched to using a custom library with a proper standard so the different services should work in a more coherent manor. You can find the library here: https://github.com/ThatGravyBoat/Jukebox
+- Fixed a lot of bugs including the bug on new game versions where it would open the documents folder instead of the link.
+- Added a page for logging into Spotify instead of it just opening it because it just makes the switching alot better.
+- Changed how Display Mode works to make it not break as much on Spotify.
+- Added support for a new music service, Apple Music through cider.sh
+- Fixed a bug where you could have a volume slider bigger than 100%
+
 ## 1.4.1
 - Fixed issue where config would fail to load because of login button.
 - Fixed issue on Fabric where it would break essential installer.
