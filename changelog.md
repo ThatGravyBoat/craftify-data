@@ -1,5 +1,15 @@
 # Craftify Change Log
 
+## 1.6.0
+- Removed Essential Dependency (for 1.18+).
+- Fixed a bug where logs would be spammed when the song changed if another thread rendered the contents of the player.
+- Added text to the login button instructing that you need to choose a service before being able to login.
+- Changed how services start after reload to possibly fix a bug where services wouldn't start off a reload.
+- Changed auth services to a custom solution to have better control over the time to login, also is now on a custom website to also have a custom theme sharing service in the future.
+- Fixed a bug where Spotify would not send me the track and would break the service.
+- Changed YouTube to use a websocket so it should update instantly instead of having to poll for an update.
+- Added a message so that if a reauth fails it will let the user know they have to manually log back in
+
 ## 1.5.0
 - Switched to using a custom library with a proper standard so the different services should work in a more coherent manor. You can find the library here: https://github.com/ThatGravyBoat/Jukebox
 - Fixed a lot of bugs including the bug on new game versions where it would open the documents folder instead of the link.
