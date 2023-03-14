@@ -1,5 +1,15 @@
 # Craftify Change Log
 
+## 1.8.0
+- Updated to 1.19.4
+- Added support for Foobar & DeaDBeeF using Beefweb plugin
+- Added new local theme option to hide image.
+
+## 1.7.0
+- Fixed SSL Issues for 1.12.2 and 1.8.9
+- Added warning when in a private session for Spotify.
+- Improved service loading and unloading to make sure multiple services arnt connected at once.
+
 ## 1.6.0
 - Removed Essential Dependency (for 1.18+).
 - Fixed a bug where logs would be spammed when the song changed if another thread rendered the contents of the player.
