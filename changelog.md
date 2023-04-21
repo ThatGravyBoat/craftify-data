@@ -1,5 +1,14 @@
 # Craftify Change Log
 
+## 1.9.0
+- Fixed issue where if artist had an ampersand in their name and a valid color code following it would color the text.
+- Fixed an issue where if an artist put too many artists on their song it would cover the menus in artist text, it is now limited to 3 artists.
+- Added support for foobar artwork.
+- Added new RenderType, Escape and Inventory menu
+- Changed missing and loading icons for images to be blank as the loading would flash and the missing would be obnoxious.
+- Fixed issues where YoutubeService would not ping socket that it still exists so it would close the connection.
+- Fixed that ADs were not properly categorized when using YoutubeService and therefore would not show an icon or a title.
+
 ## 1.8.0
 - Updated to 1.19.4
 - Added support for Foobar & DeaDBeeF using Beefweb plugin
