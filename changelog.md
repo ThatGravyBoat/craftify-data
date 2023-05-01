@@ -1,5 +1,9 @@
 # Craftify Change Log
 
+## 1.10.0
+- Fixed Spotify not updating after an ad played.
+- Fixed changelog screen not being scrollable.
+
 ## 1.9.0
 - Fixed issue where if artist had an ampersand in their name and a valid color code following it would color the text.
 - Fixed an issue where if an artist put too many artists on their song it would cover the menus in artist text, it is now limited to 3 artists.
