@@ -6,6 +6,8 @@
 - Added new only show when the player tab is opened.
 - Fixed problem with local songs on Spotify
 
+- Updated to 1.20
+
 ## 1.10.0
 - Fixed Spotify not updating after an ad played.
 - Fixed changelog screen not being scrollable.
