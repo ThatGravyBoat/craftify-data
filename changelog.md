@@ -1,5 +1,11 @@
 # Craftify Change Log
 
+## 1.11.0
+- Renamed hide hud to reflect the actual purpose
+- Made player hide if debug info is opened.
+- Added new only show when the player tab is opened.
+- Fixed problem with local songs on Spotify
+
 ## 1.10.0
 - Fixed Spotify not updating after an ad played.
 - Fixed changelog screen not being scrollable.
